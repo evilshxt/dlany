@@ -128,6 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 **dlany** is intended for educational purposes and for downloading content you have the rights to access. Please respect copyright laws and terms of service of the platforms. This tool is not affiliated with YouTube, Instagram, or TikTok.
+This Project is still in development
 
 ## 🙏 Acknowledgments
 
@@ -135,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FFmpeg](https://ffmpeg.org/) for media processing
 - [Tailwind CSS](https://tailwindcss.com/) for the beautiful UI
 - [Framer Motion](https://www.framer.com/motion/) for smooth animations
-
+  
 ---
 
 <div align="center">
